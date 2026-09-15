@@ -75,7 +75,7 @@ The base level $\gamma_0$ is set so that the total expected premium meets a **ta
 ## Repository Structure
 
 ```
-project-2-glm-insurance-pricing/
+glm-insurance-pricing/
 ├── analysis.ipynb         # Main notebook — full pipeline
 ├── requirements.txt       # Python dependencies
 ├── data/
